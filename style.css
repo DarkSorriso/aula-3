@@ -1,0 +1,20 @@
+body{
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    margin-top:30px;
+    border-width:10px;
+    background-color:white;
+    border-style:ridge;
+}
+
+.start
+{
+    width:200px;
+    height:60px;
+    background-color:brown;
+    color: antiqueWhite;
+    font-size:50px;
+}
